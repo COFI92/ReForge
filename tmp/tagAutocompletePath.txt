@@ -1,0 +1,1 @@
+/home/studio-lab-user/stable-diffusion-webui-reForge/extensions/a1111-sd-webui-tagcomplete/tags
