@@ -1,0 +1,11 @@
+absurdres,anime coloring,vector trace,bloom,glw,sidelighting,kuroboshi kouhaku, 
+1girl,solo,(abigail williams \(fate\):1),blonde hair,blue eyes,very long hair,straight hair,forehead,alternate costume,purple dress,white trim,(wide sleeves:1.2),(sleeves past fingers:1.2), (collarbone:1.2),popped collar,jewelry,(cross necklace:1.2),crown,(red rope belt:1),red brooch,covered nipples,(wide hips:0.8),cleavage,small breasts,white collar,oversized clothes,sagging breasts, pointy breasts, 
+(hair over face,hair over shoulders:1.2),
+arms up,closed mouth,(from behind,looking back:1.4),(cleavage,cross necklace,red brooch,collarbone,facing viewer:-1),lying,
+tsurime,eyelashes,looking at viewer,close-up,upper body, 
+indoors,gothic,(dark:1.2),window,lightning,storm clouds,curtains,(ruins,abandoned:1.2),pile of skulls,spider web,silk,candlestand, throne,candle,(painting \(object\):0.8),carpet,bookshelf,blue theme,medieval
+<lora:reading-book:0.4> <lora:TOC2:1>  <lora:dramatic-lighting:5> <lora:glow:1> <lora:dark-slider:-0.6> <lora:hair-over-face:1>
+Negative prompt: low quality, 3d,mikumikudance \(medium\), mmd,fewer digits, extra digits,
+multiple views,text,moon,wide shot,barefoot,eyes visible through hair,claws,disembodied penis,w,empty eyes,jitome,skindentation, scenery,covered navel,jitome,
+glowing eyes, simple background, 
+Steps: 20, Sampler: Euler a, Schedule type: Align Your Steps GITS, CFG scale: 4, Seed: 3263477520, Size: 1024x1024, Model hash: 80585b5ebe, Model: animeScreenshotMerge_v40, Clip skip: 2, ADetailer model: face_yolov8n.pt, ADetailer confidence: 0.3, ADetailer dilate erode: 4, ADetailer mask blur: 32, ADetailer denoising strength: 0.4, ADetailer inpaint only masked: True, ADetailer inpaint padding: 32, ADetailer use inpaint width height: True, ADetailer inpaint width: 1024, ADetailer inpaint height: 1024, ADetailer version: 24.11.1, Lora hashes: "reading-book: 1cd8be4cbed8, TOC2: ff585582fa94, dramatic-lighting: c7fc2cd4c9ee, glow: 60a41b260396, dark-slider: 542a52c66b81, hair-over-face: c917d39f3ab0", NegPiP Active: True, Emphasis: No norm, Version: f1.2.5-v1.10.1RC-1.10.1
