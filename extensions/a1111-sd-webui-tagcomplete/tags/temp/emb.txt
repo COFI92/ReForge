@@ -1,0 +1,1 @@
+Stable_Yogis_PDXL_Negatives-neg.safetensors,"stable_yogis_pdxl_negatives-neg",vXL
